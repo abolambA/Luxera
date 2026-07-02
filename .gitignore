@@ -1,0 +1,27 @@
+# ===== KiCad =====
+# Per-user prefs & locks
+*.kicad_prl
+*.lck
+~*.lck
+# Auto-backup & autosave
+*-backups/
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+*.bck
+_autosave-*
+*-save.kicad_*
+# Caches & rescue
+fp-info-cache
+*-rescue.lib
+*-rescue.kicad_sym
+# Netlists & fab exports (regenerate on demand)
+*.net
+*.d356
+
+# ===== macOS =====
+.DS_Store
+
+# ===== Python =====
+__pycache__/
+.history/
