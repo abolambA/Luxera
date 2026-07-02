@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "luxera") (type "KiCad") (uri "/Users/Nihad/Projects/Luxera/lib/luxera.pretty") (options "") (descr ""))
+)
